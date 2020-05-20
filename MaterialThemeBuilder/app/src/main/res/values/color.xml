@@ -42,13 +42,13 @@
 
     <!--Color palette-->
 
-    <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
-    <color name="purple_500">#6200ee</color> <!--Color primary (light)-->
-    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
-    <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
+    <color name="primaryColor_darktheme">#bc477b</color> <!--Color primary (dark) 200-->
+    <color name="primaryColor_default">#880E4F</color> <!--Color primary (light) 500-->
+    <color name="primaryColor_variant_darktheme">#bc477b</color> <!--Color primary variant (dark) 600-->
+    <color name="primaryColor_variant_default">#fa5788</color> <!--Color primary variant (light) 700-->
 
-    <color name="green_200">#03dac6</color> <!--Color secondary-->
-    <color name="green_500">#018786</color> <!--Color secondary variant-->
+    <color name="secondaryColor">#fce4ec</color> <!--Color secondary-->
+    <color name="secondaryColor_variant">#c9b2ba</color> <!--Color secondary variant-->
 
     <color name="red_200">#cf6679</color> <!--Color error (dark)-->
     <color name="red_600">#b00020</color> <!--Color error (light)-->
